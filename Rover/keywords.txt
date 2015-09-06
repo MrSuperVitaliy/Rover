@@ -1,0 +1,15 @@
+###################################
+#  Syntax Coloring Map For Rover  #
+###################################
+
+Rover	KEYWORD1
+rover	KEYWORD2
+forward	KEYWORD2
+back	KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
+leftTrack	KEYWORD2
+stopLeftTrack	KEYWORD2
+rightTrack	KEYWORD2
+stopRightTrack	KEYWORD2
+stop	KEYWORD2
